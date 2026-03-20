@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // testing CI setup
+// testing CI setup
 public class CustomList {
     private List<City> cities;
 
